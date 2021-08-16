@@ -1,7 +1,6 @@
 {
   "name": "live-posts",
   "version": "0.0.0",
-  "homepage": "live-posts",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
